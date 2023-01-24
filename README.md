@@ -6,6 +6,8 @@ I'm a Software Engineer, Data Scientist, and dad of 2 boys.
 - 🌱 I’m currently learning Nest.js
 - 📫 How to reach me: 
 <p>
+  ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+  
 <a href="https://www.linkedin.com/in/junhyeok-roh/" rel="noreferrer" target="_blank"><img src="https://camo.githubusercontent.com/4fa642c59b0e907215972db4de488fe78c939dd669890b64f9df523b7a009241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c6174266c6162656c436f6c6f723d306537366138266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://texasroh.github.io" rel="noreferrer" target="_blank">Resume GH Page</a></p>
 
